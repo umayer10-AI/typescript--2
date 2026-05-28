@@ -7,3 +7,4 @@ admin1.a()
 const c = new admin2.A()
 c.login()
 admin2.a()
+
